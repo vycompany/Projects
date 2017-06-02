@@ -192,16 +192,16 @@ border="0" cellpadding="2" cellspacing="2">
 <tr>
 <td style="vertical-align: top;">VINAY M:<br>
 </td>
-<td style="vertical-align: top;">9663214702<br>
-viym14cs@cmrit.ac.in<br>
+<td style="vertical-align: top;">number<br>
+email id<br>
 
 </td>
 </tr>
 <tr>
 <td style="vertical-align: top;">YASH JAIN:<br>
 </td>
-<td style="vertical-align: top;">7353629945<br>
-yaja14cs@cmrit.ac.in<br>
+<td style="vertical-align: top;">number<br>
+email id<br>
 </td>
 </tr>
 </tbody>
